@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Author : Ifunanya William Onah
+//Email: williamifunanya@gmail.com
+
+
+using System;
 using System.Text.RegularExpressions;
 
 namespace ClassRegister
